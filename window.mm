@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1658081669148" ID="ID_1886537343" LINK="mdm.mm" MODIFIED="1658082382569" TEXT="window">
 <icon BUILTIN="Package"/>
-<node CREATED="1641814113214" ID="ID_1301784948" MODIFIED="1641814115495" POSITION="right" TEXT="geo">
+<node CREATED="1641814113214" FOLDED="true" ID="ID_1301784948" MODIFIED="1665774924156" POSITION="right" TEXT="geo">
 <icon BUILTIN="Package"/>
 <node CREATED="1641814118645" FOLDED="true" ID="ID_180781964" MODIFIED="1659912144985" TEXT="pais">
 <icon BUILTIN="Package"/>
