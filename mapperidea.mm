@@ -3333,7 +3333,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1658084023442" ID="ID_239109345" MODIFIED="1665857511804" TEXT="angular">
+<node CREATED="1658084023442" ID="ID_239109345" MODIFIED="1666035594063" TEXT="angular">
 <icon BUILTIN="element"/>
 <node CREATED="1638532674425" FOLDED="true" ID="ID_926807748" MODIFIED="1665857516201" TEXT="model">
 <icon BUILTIN="element"/>
@@ -8494,7 +8494,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665516345016" ID="ID_1029355571" MODIFIED="1665860504369" TEXT="app.component">
+<node CREATED="1665516345016" ID="ID_1029355571" MODIFIED="1666035597965" TEXT="app.component">
 <icon BUILTIN="Descriptor.grouping"/>
 <node CREATED="1665516357210" ID="ID_617402839" MODIFIED="1665861042413" TEXT="appComponentHTML">
 <icon BUILTIN="element"/>
@@ -8776,7 +8776,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665861120881" ID="ID_368291676" MODIFIED="1665861134618" TEXT="listaMenu">
+<node CREATED="1665861120881" FOLDED="true" ID="ID_368291676" MODIFIED="1666035341487" TEXT="listaMenu">
 <icon BUILTIN="element"/>
 <node CREATED="1639135985370" ID="ID_1449642127" MODIFIED="1665861046759" TEXT="start">
 <icon BUILTIN="element"/>
@@ -8861,9 +8861,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1665771103506" FOLDED="true" ID="ID_803491834" MODIFIED="1665861039181" TEXT="appRouting">
+<node CREATED="1665771103506" ID="ID_803491834" MODIFIED="1666035342896" TEXT="appRouting">
 <icon BUILTIN="element"/>
-<node CREATED="1638532918770" FOLDED="true" ID="ID_1494961007" MODIFIED="1665860499618" TEXT="start">
+<node CREATED="1638532918770" ID="ID_1494961007" MODIFIED="1666035544959" TEXT="start">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1638532989745" ID="ID_1125861681" MODIFIED="1665771260611" TEXT="match">
@@ -8925,9 +8925,21 @@
 </node>
 </node>
 </node>
+<node CREATED="1665859515862" ID="ID_1479684958" MODIFIED="1665859535991" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1665859523421" ID="ID_671912034" MODIFIED="1666035551902" TEXT="fimRotas">
+<icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1638533266833" FOLDED="true" ID="ID_680637716" MODIFIED="1665860497667" TEXT="patterns">
+<node CREATED="1665859515862" ID="ID_1309611352" MODIFIED="1665859535991" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1665859523421" ID="ID_1308243196" MODIFIED="1666035556383" TEXT="declaraClasse">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1638533266833" ID="ID_680637716" MODIFIED="1666036140447" TEXT="patterns">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1665771295758" ID="ID_1212994539" MODIFIED="1665771306294" TEXT="declaraImport">
@@ -8987,8 +8999,47 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
+<node CREATED="1666035468362" ID="ID_1677256111" MODIFIED="1666035493431" TEXT="fimRotas">
+<icon BUILTIN="element"/>
+<node CREATED="1666035484866" ID="ID_529563576" MODIFIED="1666035490052" TEXT="">
+<icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1638534256478" ID="ID_817295626" MODIFIED="1665860953243" TEXT="templates">
+<node CREATED="1666035482134" ID="ID_1067010135" MODIFIED="1666035490052" TEXT="">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1666035479145" ID="ID_1908404176" MODIFIED="1666035490052" TEXT="];">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1666035498122" ID="ID_18127612" MODIFIED="1666035501881" TEXT="">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1666035509899" ID="ID_1397408608" MODIFIED="1666035517273" TEXT="declaraClasse">
+<icon BUILTIN="element"/>
+<node CREATED="1666035526129" ID="ID_148229591" MODIFIED="1666035541635" TEXT="@NgModule({">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1666035526130" ID="ID_356418955" MODIFIED="1666035541635" TEXT="imports: [RouterModule.forRoot(routes)],">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1666035526130" ID="ID_217353795" MODIFIED="1666035541635" TEXT="exports: [RouterModule]">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1666035526131" ID="ID_939080233" MODIFIED="1666035541635" TEXT="})">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1666035526131" ID="ID_1985126586" MODIFIED="1666035541635" TEXT="export class AppRoutingModule { }">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1666036142173" ID="ID_396758453" MODIFIED="1666036147195" TEXT="debug">
+<icon BUILTIN="element"/>
+<node CREATED="1666036148273" ID="ID_484859990" MODIFIED="1666036170666" TEXT="{{ properties/addOption/value }}">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1638534256478" ID="ID_817295626" MODIFIED="1666035858013" TEXT="templates">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1638534267413" ID="ID_610181747" MODIFIED="1665860374149" TEXT="mode">
@@ -9003,7 +9054,7 @@
 <node CREATED="1638534300500" ID="ID_1906669358" MODIFIED="1665771512670" TEXT="match">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534305188" ID="ID_870642263" MODIFIED="1665857959589" TEXT="class[@mode = &apos;window.list&apos;]">
+<node CREATED="1638534305188" ID="ID_870642263" MODIFIED="1666035987788" TEXT="class[@mode = &apos;window.list&apos; and properties/addOption/value != &apos;false&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -9055,6 +9106,12 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
+<node CREATED="1638534488766" ID="ID_1912482651" MODIFIED="1665772648845" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1665772654273" ID="ID_471862658" MODIFIED="1666036194841" TEXT="debug">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1638534295068" ID="ID_1444612160" MODIFIED="1665771511519" TEXT="template">
@@ -9063,7 +9120,7 @@
 <node CREATED="1638534300500" ID="ID_1111970980" MODIFIED="1665771512670" TEXT="match">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534305188" ID="ID_1591005105" MODIFIED="1665858574653" TEXT="class[@mode = &apos;window.editor&apos;]">
+<node CREATED="1638534305188" ID="ID_1591005105" MODIFIED="1666036458566" TEXT="class[@mode = &apos;window.editor&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -9112,6 +9169,66 @@
 <node CREATED="1638534488766" ID="ID_1779009219" MODIFIED="1665772648845" TEXT="write-pattern">
 <icon BUILTIN="element"/>
 <node CREATED="1665772654273" ID="ID_1267662353" MODIFIED="1665858674808" TEXT="importaComponenteEditor">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1638534295068" ID="ID_481384403" MODIFIED="1665771511519" TEXT="template">
+<font BOLD="true" NAME="Courier New" SIZE="16"/>
+<icon BUILTIN="element"/>
+<node CREATED="1638534300500" ID="ID_1116526436" MODIFIED="1665771512670" TEXT="match">
+<font BOLD="true" NAME="Courier New" SIZE="16"/>
+<icon BUILTIN="element"/>
+<node CREATED="1638534305188" ID="ID_590780124" MODIFIED="1666036475581" TEXT="class/properties/addOption/value = &apos;false&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1638534343299" ID="ID_906682438" MODIFIED="1665772629861" TEXT="body">
+<font BOLD="true" NAME="Courier New" SIZE="16"/>
+<icon BUILTIN="element"/>
+<node CREATED="1641818861705" ID="ID_1395990814" MODIFIED="1665857860882" TEXT="vars">
+<icon BUILTIN="element"/>
+<node CREATED="1641818865497" ID="ID_549367601" MODIFIED="1665771853399" TEXT="var">
+<icon BUILTIN="element"/>
+<node CREATED="1641818876265" ID="ID_71661480" MODIFIED="1642765382278" TEXT="listEntity">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1641818915376" ID="ID_1634543948" MODIFIED="1665771855612" TEXT="expr">
+<icon BUILTIN="element"/>
+<node CREATED="1641818918895" ID="ID_1547295089" MODIFIED="1642765406724" TEXT="attributes/attribute[@mode = &apos;oneToMany&apos;][1]">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1641819084066" ID="ID_1679475767" MODIFIED="1665857867469" TEXT="var">
+<icon BUILTIN="element"/>
+<node CREATED="1641819089881" ID="ID_1778446459" MODIFIED="1642765416103" TEXT="listClass">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1641819096049" ID="ID_1464567346" MODIFIED="1665771862163" TEXT="expr">
+<icon BUILTIN="element"/>
+<node CREATED="1641819100849" ID="ID_1972980790" MODIFIED="1642765425965" TEXT="/classes/class[@name = $listEntity/@type]">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1641818865497" ID="ID_384097768" MODIFIED="1665857868166" TEXT="var">
+<icon BUILTIN="element"/>
+<node CREATED="1641818876265" ID="ID_822996935" MODIFIED="1642766211233" TEXT="listItem">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1641818915376" FOLDED="true" ID="ID_1101386151" MODIFIED="1665771090473" TEXT="expr">
+<icon BUILTIN="element"/>
+<node CREATED="1641818918895" ID="ID_1412904938" MODIFIED="1642766231383" TEXT="attributes/attribute[@mode = &apos;oneToOne&apos;][1]">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1638534488766" ID="ID_1373950592" MODIFIED="1665772648845" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1665772654273" ID="ID_1311932301" MODIFIED="1666036194841" TEXT="debug">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
