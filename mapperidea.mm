@@ -376,7 +376,7 @@
 </node>
 <node CREATED="1657542298359" ID="ID_648190111" MODIFIED="1665774620028" POSITION="right" TEXT="generators">
 <icon BUILTIN="element"/>
-<node CREATED="1638532646585" FOLDED="true" ID="ID_1972588312" MODIFIED="1666306330337" TEXT="mean">
+<node CREATED="1638532646585" FOLDED="true" ID="ID_1972588312" MODIFIED="1666310177429" TEXT="mean">
 <icon BUILTIN="element"/>
 <node CREATED="1638532674425" FOLDED="true" ID="ID_279417295" MODIFIED="1665771090426" TEXT="mongoModel">
 <icon BUILTIN="element"/>
@@ -8263,7 +8263,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665516345016" ID="ID_1029355571" MODIFIED="1666308474103" TEXT="app.component">
+<node CREATED="1665516345016" FOLDED="true" ID="ID_1029355571" MODIFIED="1666310029839" TEXT="app.component">
 <icon BUILTIN="Descriptor.grouping"/>
 <node CREATED="1665516357210" ID="ID_617402839" MODIFIED="1665861042413" TEXT="appComponentHTML">
 <icon BUILTIN="element"/>
@@ -8630,7 +8630,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665771103506" FOLDED="true" ID="ID_803491834" MODIFIED="1666306259893" TEXT="appRouting">
+<node CREATED="1665771103506" FOLDED="true" ID="ID_803491834" MODIFIED="1666310169026" TEXT="appRouting">
 <icon BUILTIN="element"/>
 <node CREATED="1638532918770" ID="ID_1494961007" MODIFIED="1666122053378" TEXT="start">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
@@ -8811,7 +8811,7 @@
 <node CREATED="1638534256478" ID="ID_817295626" MODIFIED="1666039240332" TEXT="templates">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534267413" FOLDED="true" ID="ID_610181747" MODIFIED="1666127388764" TEXT="mode">
+<node CREATED="1638534267413" ID="ID_610181747" MODIFIED="1666310047963" TEXT="mode">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1638534273845" ID="ID_792869214" MODIFIED="1665771510424" TEXT="declaraComponente">
@@ -8823,7 +8823,7 @@
 <node CREATED="1638534300500" ID="ID_1906669358" MODIFIED="1665771512670" TEXT="match">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534305188" ID="ID_870642263" MODIFIED="1666035987788" TEXT="class[@mode = &apos;window.list&apos; and properties/addOption/value != &apos;false&apos;]">
+<node CREATED="1638534305188" ID="ID_870642263" MODIFIED="1666310074345" TEXT="class[@mode = &apos;window.list&apos; and properties/ImportarOpcao/value != &apos;false&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -8883,7 +8883,7 @@
 <node CREATED="1638534300500" ID="ID_1111970980" MODIFIED="1665771512670" TEXT="match">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534305188" ID="ID_1591005105" MODIFIED="1666036873253" TEXT="class[@mode = &apos;window.editor&apos; and properties/addOption/value != &apos;false&apos;]">
+<node CREATED="1638534305188" ID="ID_1591005105" MODIFIED="1666310078851" TEXT="class[@mode = &apos;window.editor&apos; and properties/ImportarOpcao/value != &apos;false&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -8938,7 +8938,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1638534267413" FOLDED="true" ID="ID_1025875849" MODIFIED="1666127383783" TEXT="mode">
+<node CREATED="1638534267413" ID="ID_1025875849" MODIFIED="1666310057477" TEXT="mode">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1638534273845" ID="ID_1813362271" MODIFIED="1665859581234" TEXT="declaraRotas">
@@ -9010,7 +9010,7 @@
 <node CREATED="1638534300500" ID="ID_1773902815" MODIFIED="1665771512670" TEXT="match">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534305188" ID="ID_1596257733" MODIFIED="1666039423436" TEXT="class[@mode = &apos;window.editor&apos; and properties/addOption/value != &apos;false&apos;]">
+<node CREATED="1638534305188" ID="ID_1596257733" MODIFIED="1666310081752" TEXT="class[@mode = &apos;window.editor&apos; and properties/ImportarOpcao/value != &apos;false&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -9067,7 +9067,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1666126807813" FOLDED="true" ID="ID_586642086" MODIFIED="1666308341145" TEXT="appModule">
+<node CREATED="1666126807813" FOLDED="true" ID="ID_586642086" MODIFIED="1666310173122" TEXT="appModule">
 <icon BUILTIN="element"/>
 <node CREATED="1639135985370" ID="ID_722877660" MODIFIED="1666126825779" TEXT="start">
 <icon BUILTIN="element"/>
