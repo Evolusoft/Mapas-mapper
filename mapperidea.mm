@@ -376,7 +376,7 @@
 </node>
 <node CREATED="1657542298359" ID="ID_648190111" MODIFIED="1665774620028" POSITION="right" TEXT="generators">
 <icon BUILTIN="element"/>
-<node CREATED="1638532646585" ID="ID_1972588312" MODIFIED="1666053659655" TEXT="mean">
+<node CREATED="1638532646585" FOLDED="true" ID="ID_1972588312" MODIFIED="1666306330337" TEXT="mean">
 <icon BUILTIN="element"/>
 <node CREATED="1638532674425" FOLDED="true" ID="ID_279417295" MODIFIED="1665771090426" TEXT="mongoModel">
 <icon BUILTIN="element"/>
@@ -874,237 +874,6 @@
 <node CREATED="1638966805803" FOLDED="true" ID="ID_951479327" MODIFIED="1665771090426" TEXT="write-pattern">
 <icon BUILTIN="element"/>
 <node CREATED="1638966812187" ID="ID_1784177348" MODIFIED="1638966933156" TEXT="fimNested">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1657626244020" FOLDED="true" ID="ID_217477071" MODIFIED="1665771090431" TEXT="bashGenerateAll">
-<icon BUILTIN="element"/>
-<node CREATED="1657626258273" FOLDED="true" ID="ID_638351840" MODIFIED="1665771090429" TEXT="start">
-<icon BUILTIN="element"/>
-<node CREATED="1657626283011" FOLDED="true" ID="ID_1416781448" MODIFIED="1665771090426" TEXT="match">
-<icon BUILTIN="element"/>
-<node CREATED="1657626298931" ID="ID_1828219998" MODIFIED="1657626382271" TEXT="/classes">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657626289238" FOLDED="true" ID="ID_1871729692" MODIFIED="1665771090429" TEXT="body">
-<icon BUILTIN="element"/>
-<node CREATED="1665522037614" FOLDED="true" ID="ID_1699558883" MODIFIED="1665771090426" TEXT="write-pattern">
-<icon BUILTIN="element"/>
-<node CREATED="1665522050442" ID="ID_1488512126" MODIFIED="1665522059160" TEXT="criaModel">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631548030" FOLDED="true" ID="ID_400177807" MODIFIED="1665771090426" TEXT="apply-templates">
-<icon BUILTIN="element"/>
-<node CREATED="1657631568964" FOLDED="true" ID="ID_677995909" MODIFIED="1665771090426" TEXT="select">
-<icon BUILTIN="element"/>
-<node CREATED="1657631586113" ID="ID_1609081887" MODIFIED="1657632068067" TEXT="class[@mode = &apos;bean&apos; ]">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631576228" FOLDED="true" ID="ID_1300924776" MODIFIED="1665771090426" TEXT="mode">
-<icon BUILTIN="element"/>
-<node CREATED="1657631597502" ID="ID_1492262252" MODIFIED="1657631840121" TEXT="geraModels">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-</node>
-<node CREATED="1657631548030" FOLDED="true" ID="ID_1938262393" MODIFIED="1665771090426" TEXT="apply-templates">
-<icon BUILTIN="element"/>
-<node CREATED="1657631568964" FOLDED="true" ID="ID_998528171" MODIFIED="1665771090426" TEXT="select">
-<icon BUILTIN="element"/>
-<node CREATED="1657631586113" ID="ID_1094283895" MODIFIED="1657632068067" TEXT="class[@mode = &apos;bean&apos; ]">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631576228" FOLDED="true" ID="ID_1425268977" MODIFIED="1665771090426" TEXT="mode">
-<icon BUILTIN="element"/>
-<node CREATED="1657631597502" ID="ID_134961245" MODIFIED="1657716025921" TEXT="geraControllers">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-</node>
-<node CREATED="1657631548030" FOLDED="true" ID="ID_1580679931" MODIFIED="1665771090427" TEXT="apply-templates">
-<icon BUILTIN="element"/>
-<node CREATED="1657631568964" FOLDED="true" ID="ID_680203911" MODIFIED="1665771090426" TEXT="select">
-<icon BUILTIN="element"/>
-<node CREATED="1657631586113" ID="ID_1269604540" MODIFIED="1657632068067" TEXT="class[@mode = &apos;bean&apos; ]">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631576228" FOLDED="true" ID="ID_1248596048" MODIFIED="1665771090427" TEXT="mode">
-<icon BUILTIN="element"/>
-<node CREATED="1657631597502" ID="ID_44625723" MODIFIED="1658240984090" TEXT="geraSchema">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-</node>
-<node CREATED="1657631548030" FOLDED="true" ID="ID_1922478670" MODIFIED="1665771090429" TEXT="apply-templates">
-<icon BUILTIN="element"/>
-<node CREATED="1657631568964" FOLDED="true" ID="ID_1496590030" MODIFIED="1665771090429" TEXT="select">
-<icon BUILTIN="element"/>
-<node CREATED="1657631586113" ID="ID_252186655" MODIFIED="1657632068067" TEXT="class[@mode = &apos;bean&apos; ]">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631576228" FOLDED="true" ID="ID_434004813" MODIFIED="1665771090429" TEXT="mode">
-<icon BUILTIN="element"/>
-<node CREATED="1657631597502" ID="ID_1564839141" MODIFIED="1658331678862" TEXT="geraServices">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1657626270312" FOLDED="true" ID="ID_1160447520" MODIFIED="1665771090430" TEXT="patterns">
-<icon BUILTIN="element"/>
-<node CREATED="1665522014792" FOLDED="true" ID="ID_1584552344" MODIFIED="1665771090429" TEXT="criaModel">
-<icon BUILTIN="element"/>
-<node CREATED="1665521998298" ID="ID_1740953255" MODIFIED="1665522032331" TEXT="mkdir models">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631715826" FOLDED="true" ID="ID_1960998075" MODIFIED="1665771090429" TEXT="geraModel">
-<icon BUILTIN="element"/>
-<node CREATED="1657631723740" ID="ID_1798175353" MODIFIED="1657695230315" TEXT="mapperidea generate app mean mongoModel entityName={{ @name }} &gt; models/{{ mi:first-lower(@name) }}.model.js">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631715826" FOLDED="true" ID="ID_1719642715" MODIFIED="1665771090430" TEXT="geraController">
-<icon BUILTIN="element"/>
-<node CREATED="1657631723740" ID="ID_120285601" MODIFIED="1657716130618" TEXT="mapperidea generate app mean apiController entityName={{ @name }} &gt; app/controllers/{{ mi:first-lower(@name) }}.controller.js">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1658240817857" FOLDED="true" ID="ID_722960137" MODIFIED="1665771090430" TEXT="geraSchemas">
-<icon BUILTIN="element"/>
-<node CREATED="1658240833254" ID="ID_367178135" MODIFIED="1658241143084" TEXT="mapperidea generate app angular model entityName={{ @name }} &gt; qualhada/src/app/models/{{ mi:first-lower(@name) }}.model.ts">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1658331583499" FOLDED="true" ID="ID_335584213" MODIFIED="1665771090430" TEXT="geraService">
-<icon BUILTIN="element"/>
-<node CREATED="1658331594134" ID="ID_39330766" MODIFIED="1658331646708" TEXT="mi g app angular dataService entityName={{ @name }} &gt; qualhada/src/app/services/{{ mi:first-lower(@name) }}.service.ts">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631861840" FOLDED="true" ID="ID_1916396877" MODIFIED="1665771090430" TEXT="template">
-<icon BUILTIN="element"/>
-<node CREATED="1657631866871" FOLDED="true" ID="ID_1485895708" MODIFIED="1665771090430" TEXT="match">
-<icon BUILTIN="element"/>
-<node CREATED="1657631889091" ID="ID_1480981821" MODIFIED="1657632132477" TEXT="class[@name != &apos; &apos; ]">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631870115" FOLDED="true" ID="ID_814359297" MODIFIED="1665771090430" TEXT="body">
-<icon BUILTIN="element"/>
-<node CREATED="1657631874327" FOLDED="true" ID="ID_304466522" MODIFIED="1665771090430" TEXT="write-pattern">
-<icon BUILTIN="element"/>
-<node CREATED="1657631882300" ID="ID_588673712" MODIFIED="1657631935757" TEXT="geraModel">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1657631625973" FOLDED="true" ID="ID_1157794193" MODIFIED="1665771090431" TEXT="templates">
-<icon BUILTIN="element"/>
-<node CREATED="1657631632819" FOLDED="true" ID="ID_445513529" MODIFIED="1665771090430" TEXT="mode">
-<icon BUILTIN="element"/>
-<node CREATED="1657631826960" ID="ID_851135599" MODIFIED="1657631857050" TEXT="geraModels">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1657631861840" FOLDED="true" ID="ID_1216736627" MODIFIED="1665771090430" TEXT="template">
-<icon BUILTIN="element"/>
-<node CREATED="1657631866871" FOLDED="true" ID="ID_1867366492" MODIFIED="1665771090430" TEXT="match">
-<icon BUILTIN="element"/>
-<node CREATED="1657631889091" ID="ID_654852279" MODIFIED="1657632132477" TEXT="class[@name != &apos; &apos; ]">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631870115" FOLDED="true" ID="ID_1141983618" MODIFIED="1665771090430" TEXT="body">
-<icon BUILTIN="element"/>
-<node CREATED="1657631874327" FOLDED="true" ID="ID_637992248" MODIFIED="1665771090430" TEXT="write-pattern">
-<icon BUILTIN="element"/>
-<node CREATED="1657631882300" ID="ID_1409012562" MODIFIED="1657631935757" TEXT="geraModel">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1657631632819" FOLDED="true" ID="ID_1578912977" MODIFIED="1665771090431" TEXT="mode">
-<icon BUILTIN="element"/>
-<node CREATED="1657631597502" ID="ID_1203318823" MODIFIED="1657716025921" TEXT="geraControllers">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1657631861840" FOLDED="true" ID="ID_1609155303" MODIFIED="1665771090431" TEXT="template">
-<icon BUILTIN="element"/>
-<node CREATED="1657631866871" FOLDED="true" ID="ID_1581473664" MODIFIED="1665771090430" TEXT="match">
-<icon BUILTIN="element"/>
-<node CREATED="1657631889091" ID="ID_416007222" MODIFIED="1657632132477" TEXT="class[@name != &apos; &apos; ]">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631870115" FOLDED="true" ID="ID_1580249183" MODIFIED="1665771090431" TEXT="body">
-<icon BUILTIN="element"/>
-<node CREATED="1657631874327" FOLDED="true" ID="ID_1062515645" MODIFIED="1665771090430" TEXT="write-pattern">
-<icon BUILTIN="element"/>
-<node CREATED="1657631882300" ID="ID_1320063664" MODIFIED="1657716083208" TEXT="geraController">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1657631632819" FOLDED="true" ID="ID_1389054064" MODIFIED="1665771090431" TEXT="mode">
-<icon BUILTIN="element"/>
-<node CREATED="1657631597502" ID="ID_226034324" MODIFIED="1658240947815" TEXT="geraSchema">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1657631861840" FOLDED="true" ID="ID_565976201" MODIFIED="1665771090431" TEXT="template">
-<icon BUILTIN="element"/>
-<node CREATED="1657631866871" FOLDED="true" ID="ID_605524873" MODIFIED="1665771090431" TEXT="match">
-<icon BUILTIN="element"/>
-<node CREATED="1657631889091" ID="ID_552934804" MODIFIED="1657632132477" TEXT="class[@name != &apos; &apos; ]">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631870115" FOLDED="true" ID="ID_1497365665" MODIFIED="1665771090431" TEXT="body">
-<icon BUILTIN="element"/>
-<node CREATED="1657631874327" FOLDED="true" ID="ID_1458295297" MODIFIED="1665771090431" TEXT="write-pattern">
-<icon BUILTIN="element"/>
-<node CREATED="1657631882300" ID="ID_564507915" MODIFIED="1658240964261" TEXT="geraSchemas">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1657631632819" FOLDED="true" ID="ID_1284360087" MODIFIED="1665771090431" TEXT="mode">
-<icon BUILTIN="element"/>
-<node CREATED="1657631597502" ID="ID_383429360" MODIFIED="1658331658217" TEXT="geraServices">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1657631861840" FOLDED="true" ID="ID_1868661032" MODIFIED="1665771090431" TEXT="template">
-<icon BUILTIN="element"/>
-<node CREATED="1657631866871" FOLDED="true" ID="ID_644294882" MODIFIED="1665771090431" TEXT="match">
-<icon BUILTIN="element"/>
-<node CREATED="1657631889091" ID="ID_1777665291" MODIFIED="1657632132477" TEXT="class[@name != &apos; &apos; ]">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node CREATED="1657631870115" FOLDED="true" ID="ID_9820722" MODIFIED="1665771090431" TEXT="body">
-<icon BUILTIN="element"/>
-<node CREATED="1657631874327" FOLDED="true" ID="ID_1111895745" MODIFIED="1665771090431" TEXT="write-pattern">
-<icon BUILTIN="element"/>
-<node CREATED="1657631882300" ID="ID_995966748" MODIFIED="1658331666044" TEXT="geraService">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -3113,7 +2882,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1657626244020" ID="ID_142190888" MODIFIED="1666053662031" TEXT="bashGenerateAll">
+<node CREATED="1657626244020" FOLDED="true" ID="ID_142190888" MODIFIED="1666306324684" TEXT="bashGenerateAll">
 <icon BUILTIN="element"/>
 <node CREATED="1657626258273" ID="ID_873210139" MODIFIED="1666053663651" TEXT="start">
 <icon BUILTIN="element"/>
@@ -3333,7 +3102,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1658084023442" ID="ID_239109345" MODIFIED="1666126752780" TEXT="angular">
+<node CREATED="1658084023442" ID="ID_239109345" MODIFIED="1666306333502" TEXT="angular">
 <icon BUILTIN="element"/>
 <node CREATED="1638532674425" FOLDED="true" ID="ID_926807748" MODIFIED="1665857516201" TEXT="model">
 <icon BUILTIN="element"/>
@@ -4006,7 +3775,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1658500601077" ID="ID_286140192" MODIFIED="1665858593502" TEXT="add">
+<node CREATED="1658500601077" FOLDED="true" ID="ID_286140192" MODIFIED="1666306277452" TEXT="add">
 <icon BUILTIN="Descriptor.grouping"/>
 <node CREATED="1641817850147" FOLDED="true" ID="ID_545342822" MODIFIED="1666122035025" TEXT="addComponentHTML">
 <icon BUILTIN="element"/>
@@ -8861,7 +8630,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665771103506" ID="ID_803491834" MODIFIED="1666126995514" TEXT="appRouting">
+<node CREATED="1665771103506" FOLDED="true" ID="ID_803491834" MODIFIED="1666306259893" TEXT="appRouting">
 <icon BUILTIN="element"/>
 <node CREATED="1638532918770" ID="ID_1494961007" MODIFIED="1666122053378" TEXT="start">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
@@ -8939,7 +8708,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1638533266833" ID="ID_680637716" MODIFIED="1666122140877" TEXT="patterns">
+<node CREATED="1638533266833" ID="ID_680637716" MODIFIED="1666306252926" TEXT="patterns">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1665771295758" ID="ID_1212994539" MODIFIED="1665771306294" TEXT="declaraImport">
@@ -9298,7 +9067,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1666126807813" ID="ID_586642086" MODIFIED="1666126814608" TEXT="appModule">
+<node CREATED="1666126807813" ID="ID_586642086" MODIFIED="1666306459482" TEXT="appModule">
 <icon BUILTIN="element"/>
 <node CREATED="1639135985370" ID="ID_722877660" MODIFIED="1666126825779" TEXT="start">
 <icon BUILTIN="element"/>
@@ -9416,7 +9185,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1639136120238" ID="ID_1283617540" MODIFIED="1666127486218" TEXT="patterns">
+<node CREATED="1639136120238" FOLDED="true" ID="ID_1283617540" MODIFIED="1666306463479" TEXT="patterns">
 <icon BUILTIN="element"/>
 <node CREATED="1665516573270" ID="ID_739969476" MODIFIED="1666128674044" TEXT="declaraImport">
 <icon BUILTIN="element"/>
@@ -9691,7 +9460,7 @@
 </node>
 <node CREATED="1639138486061" ID="ID_1489839552" MODIFIED="1666127391761" TEXT="templates">
 <icon BUILTIN="element"/>
-<node CREATED="1638534267413" FOLDED="true" ID="ID_828404595" MODIFIED="1666127974395" TEXT="mode">
+<node CREATED="1638534267413" FOLDED="true" ID="ID_828404595" MODIFIED="1666306475828" TEXT="mode">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1638534273845" ID="ID_1641906039" MODIFIED="1666127748423" TEXT="declaraImportes">
@@ -9703,7 +9472,7 @@
 <node CREATED="1638534300500" ID="ID_384294515" MODIFIED="1665771512670" TEXT="match">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534305188" ID="ID_1927442502" MODIFIED="1666035987788" TEXT="class[@mode = &apos;window.list&apos; and properties/addOption/value != &apos;false&apos;]">
+<node CREATED="1638534305188" ID="ID_1927442502" MODIFIED="1666306468882" TEXT="class[@mode = &apos;window.list&apos; and properties/ImportarOpcao/value != &apos;false&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -9763,7 +9532,7 @@
 <node CREATED="1638534300500" ID="ID_125111613" MODIFIED="1665771512670" TEXT="match">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534305188" ID="ID_1251212269" MODIFIED="1666036873253" TEXT="class[@mode = &apos;window.editor&apos; and properties/addOption/value != &apos;false&apos;]">
+<node CREATED="1638534305188" ID="ID_1251212269" MODIFIED="1666306473475" TEXT="class[@mode = &apos;window.editor&apos; and properties/ImportarOpcao/value != &apos;false&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -9824,7 +9593,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1638534267413" FOLDED="true" ID="ID_1091924136" MODIFIED="1666127977249" TEXT="mode">
+<node CREATED="1638534267413" ID="ID_1091924136" MODIFIED="1666306476534" TEXT="mode">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1638534273845" ID="ID_967583991" MODIFIED="1665771510424" TEXT="declaraComponente">
@@ -9836,7 +9605,7 @@
 <node CREATED="1638534300500" ID="ID_1121770428" MODIFIED="1665771512670" TEXT="match">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534305188" ID="ID_328265167" MODIFIED="1666035987788" TEXT="class[@mode = &apos;window.list&apos; and properties/addOption/value != &apos;false&apos;]">
+<node CREATED="1638534305188" ID="ID_328265167" MODIFIED="1666306481656" TEXT="class[@mode = &apos;window.list&apos; and properties/ImportarOpcao/value != &apos;false&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -9896,7 +9665,7 @@
 <node CREATED="1638534300500" ID="ID_1986844190" MODIFIED="1665771512670" TEXT="match">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1638534305188" ID="ID_423787533" MODIFIED="1666036873253" TEXT="class[@mode = &apos;window.editor&apos; and properties/addOption/value != &apos;false&apos;]">
+<node CREATED="1638534305188" ID="ID_423787533" MODIFIED="1666306485596" TEXT="class[@mode = &apos;window.editor&apos; and properties/ImportarOpcao/value != &apos;false&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
