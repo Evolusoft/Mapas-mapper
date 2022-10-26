@@ -897,6 +897,12 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
+<node CREATED="1666818815338" ID="ID_1494874686" MODIFIED="1666818833723" TEXT="mongoKey">
+<icon BUILTIN="element"/>
+<node CREATED="1666818820945" ID="ID_265759174" MODIFIED="1666818828580" TEXT="mongodb+srv://jvpiloni:qXEhfh1e4ys4NtMn@mapper.dsepe.mongodb.net/?retryWrites=true&amp;w=majority">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1642160626075" FOLDED="true" ID="ID_1462344668" MODIFIED="1666310798550" POSITION="right" TEXT="patterns">
